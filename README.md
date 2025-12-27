@@ -62,7 +62,7 @@ print(f"X0 = {x[0]:.2f} X1 = {x[1]:.2f} X2 = {x[2]:.2f}")
 ```
 
 ## Output:
-![gaussian elimination]()
+<img width="1919" height="905" alt="Screenshot 2025-12-27 134700" src="https://github.com/user-attachments/assets/6ef88e0e-8095-464c-8a34-edfe91d8161d" />
 
 
 ## Result:
